@@ -38,3 +38,4 @@ ProjectIdeas
     * Visiblity
 * Desired State Configuration
 * Comics
+* The Animated Turring - A walk through Turing's computability paper, with interactive machines and related support
